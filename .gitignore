@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macOS and career assets
+CAREER_IMPACT.md
+.DS_Store
+._pack-*.idx
+._*
